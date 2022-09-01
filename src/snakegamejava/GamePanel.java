@@ -1,3 +1,5 @@
+package snakegamejava;
+
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.FontMetrics;
@@ -8,10 +10,10 @@ import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.util.Random;
 
+
 import javax.swing.JPanel;
 import javax.swing.Timer;
 
-import javafx.scene.text.Font;
 
 // import javafx.scene.text.Font;
 public class GamePanel extends JPanel implements ActionListener{
